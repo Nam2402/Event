@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event</string>
+    <string name="resultText">Tổng hai số</string>
+    <string name="numberALabel">Số a</string>
+    <string name="numberBLabel">Số b</string>
+    <string name="headerName">Các kiểu lập trình sự kiện</string>
+    <string name="example1Name">Onclick in xml</string>
+    <string name="example2Name">Annomynous Listener</string>
+    <string name="example3Name">Activity is Listener</string>
+</resources>
